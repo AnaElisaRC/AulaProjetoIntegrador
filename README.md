@@ -4,8 +4,7 @@ No primeiro semestre do CST em Ciência de Dados para Negócios, os alunos desen
 
 
 O Dashboard Geral da Easy Cooking integra dados de vendas e marketing, mostrando receita, produtos mais vendidos, perfil de clientes e canais preferidos, apoiando decisões estratégicas e operacionais.
-
-![O Dashboard Geral da Easy Cooking integra dados de vendas e marketing, mostrando receita, produtos mais vendidos, perfil de clientes e canais preferidos, apoiando decisões estratégicas e operacionais.](Geral-1.JPG)
+![O Dashboard Geral da Easy Cooking integra dados de vendas e marketing, mostrando receita, produtos mais vendidos, perfil de clientes e canais preferidos, apoiando decisões estratégicas e operacionais.](Geral.JPG)
 
 O Dashboard de Marketing da Easy Cooking reúne informações importantes sobre os clientes, como perfil, avaliações e chances de compra. Também identifica clientes mais ativos, ajudando a empresa a melhorar campanhas e estratégias de retenção.
 ![O Dashboard de Marketing da Easy Cooking reúne informações importantes sobre os clientes, como perfil, avaliações e chances de compra. Também identifica clientes mais ativos, ajudando a empresa a melhorar campanhas e estratégias de retenção.](Marketing.JPG)
